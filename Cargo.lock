@@ -79,9 +79,9 @@ dependencies = [
 
 [[package]]
 name = "stm32-ioc"
-version = "0.0.2"
+version = "0.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7f9b6493c24f110d910849862ff9b6c1f80d37a546758eacfc25f0cc2822c63b"
+checksum = "5a8edf961a22d3a43d76bbaf9f91ce43f7e216bcfc6f080460d8de617462cfcf"
 dependencies = [
  "flatlude",
  "quick-xml",
@@ -90,7 +90,7 @@ dependencies = [
 
 [[package]]
 name = "stm32-ioc-derive"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "proc-macro2",
  "quote",

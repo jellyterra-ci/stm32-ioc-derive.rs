@@ -1,6 +1,6 @@
 [package]
 name = "stm32-ioc-derive"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2024"
 license = "MIT"
 repository = "https://github.com/jellyterra-ci/stm32-ioc-derive.rs"
@@ -13,4 +13,4 @@ proc-macro = true
 syn = "2.0.108"
 quote = "1.0.41"
 proc-macro2 = "1.0.103"
-stm32-ioc = "0.0.2"
+stm32-ioc = "0.0.3"
